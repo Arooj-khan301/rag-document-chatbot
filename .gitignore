@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+faiss_index/
+data/*.pdf
+.ipynb_checkpoints/
